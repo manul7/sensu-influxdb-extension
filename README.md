@@ -64,7 +64,7 @@ _Note :_ Since Sensu 0.17.1 you can also use extension name directly :
 Check definitions can now specify a Sensu check extension to run, "extension", instead of a command.
 ```
 
-## Handler config
+## Extension config
 
 `/etc/sensu/conf.d/influxdb.json`
 ```json
